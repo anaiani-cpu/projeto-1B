@@ -5,20 +5,20 @@
 
 body{ 
        background-color: black;
-       color: white
+       color: white;
        font-family: "Roboto" , sans-serif;
 }
 
 .cabecalho{ 
-     text-açign: center; 
-    background-color: pink
+     text-align: center; 
+    background-color: pink;
     padding: 30px;
 
 }
 
 main{
     background-color: blue;
-    color:red
+    color:red;
     max-width: 800px;
     margin: 0 auto;
     padding: 16px;
@@ -35,7 +35,7 @@ img{
 }
 button{
      width:100px;
-paddig:10px;
+padding:10px;
 border-radius:10px;
 background-color: blue;
 color: white;
