@@ -1,1 +1,42 @@
-@import url();
+*{ 
+    margin: 0;
+    padding: 0;
+}
+
+body{ 
+       background-color: black;
+       color: white
+       font-family: "Roboto" , sans-serif;
+}
+
+.cabecalho{ 
+     text-açign: center; 
+    background-color: pink
+    padding: 30px;
+
+}
+
+main{
+    background-color: blue;
+    color:red
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 16px;
+}
+article{
+      display: flex;
+}
+img{
+    width: 80px;
+    height: 80px;
+}
+.texto-post{
+        margin-left: 40px;
+}
+button{
+     width:100px;
+paddig:10px;
+border-radius:10px;
+background-color: blue;
+color: white;
+}
