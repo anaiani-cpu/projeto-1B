@@ -7,6 +7,10 @@ botoes.forEach(function(botao){
 
     function botaoClicado(){
         console.log("botao Clicado")
+        let texto = document. querySelector("spam")
+        if(curtiu == false){
+            
+        }
 
     }
 
