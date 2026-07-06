@@ -5,7 +5,8 @@ botoes.forEach(function(botao){
     let curtiu = false
     botao.addEventListener("click",botaoClicado)
 
-    function botaoClicado("botao Clicado"){
+    function botaoClicado(){
+        console.log("botao Clicado")
 
     }
 
